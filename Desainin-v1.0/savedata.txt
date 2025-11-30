@@ -1,0 +1,9 @@
+# Users
+TYPE,ID,USERNAME,PASSWORD,ROLE
+USER,1001,zafa,1234,Editor
+USER,1002,afaz,4321,Customer
+
+# Orders
+TYPE,ORDERID,ORDERNAME,STATUS,ORDERTYPE,DEADLINE,REFERENCE,EXTRAS,EDITOR_ASSIGNED,FINALLINK,CUSTOMERID
+ORDER,1001,sdcdscdsc,Completed,Logo,2025-12-05,sdcvsdcdscd,sdcsdcdscdcd,zafa,qdwqdqwdwd,1002
+ORDER,1002,dcadasdsad,Pending,Logo,2025-12-07,asasdsssacx,saasdsadasdsas,"","",1002
